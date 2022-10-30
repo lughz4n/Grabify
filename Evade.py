@@ -1,5 +1,5 @@
 #!/bin/python3
-#By: Zeus0nly
+#By: ZanderC0de
 
 import os
 import sys
