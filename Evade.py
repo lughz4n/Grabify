@@ -1,13 +1,14 @@
 #!/bin/python3
 #By: Zeus0nly
 
-from bs4 import BeautifulSoup
 import os
 import sys
-import platform
-from colorama import Fore, init, Back
 import time
+import platform
 import requests
+from bs4 import BeautifulSoup
+from colorama import Fore, init, Back
+
 init()
 
 
@@ -173,7 +174,7 @@ def main():
 
     #Check OS
     if platform.system() == "Windows":
-        print(Fore.LIGHTRED_EX+'This programa not is for Windows')
+        print(Fore.LIGHTRED_EX+'This programa is not for Windows')
         exit(1)
 
     clearD()
