@@ -7,3 +7,4 @@ VPNs to use
     WindScribe
     VPNHUB
     HOLAVPN
+    TunnelBear
