@@ -158,9 +158,9 @@ def getFile():
             exit(0)
 
         else:
-            print(Fore.RED+"\nError, maybe you be using a VPN not compatible")
-            print('The vpns that you can use is:')
-            print(Fore.GREEN+'+VPNHUB\n+HOLAVPN\n?NordVPN')
+            print(Fore.RED+"\nError, maybe you are using a VPN not compatible")
+            print('The vpns that you can use are:')
+            print(Fore.GREEN+'+VPNHUB\n+HOLAVPN\n+NordVPN')
             exit(1)
 
     else:
